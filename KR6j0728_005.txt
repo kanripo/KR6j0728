@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:38:41.269142
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 6:16
 #+TITLE: 大佛頂萬行首楞嚴經會解
 #+PROPERTY: CBETA_ID P185n1618
 #+PROPERTY: ID KR6j0728
